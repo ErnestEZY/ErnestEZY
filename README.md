@@ -57,7 +57,8 @@ My goal is to build robust software systems and gain real-world engineering expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Apps_Script.svg" height="40" alt="google apps script logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" height="40" alt="google apps script logo" />
   <img width="12" />
 
   <!-- Frontend / UI -->
