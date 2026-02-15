@@ -4,7 +4,7 @@
 My name is Ernest Eh and I'm a final year Degree Student in Software Engineering at University of Wollongong Malaysia.
 </p>
 
-<hr>
+###
 
 <h2 align="left">👋 Profile Summary</h2>
 
@@ -14,7 +14,7 @@ My name is Ernest Eh and I'm a final year Degree Student in Software Engineering
 🚀 Always learning and improving through hands-on projects.
 </p>
 
-<hr>
+###
 
 <h2 align="left">About Me</h2>
 
@@ -24,7 +24,7 @@ I enjoy working with databases, APIs, and full-stack applications, and I am acti
 My goal is to build robust software systems and gain real-world engineering experience through projects and research.
 </p>
 
-<hr>
+###
 
 <h2 align="left">🚀 Tech Interests</h2>
 
@@ -39,7 +39,7 @@ My goal is to build robust software systems and gain real-world engineering expe
   <li>Desktop & Enterprise Applications (C# / .NET)</li>
 </ul>
 
-<hr>
+###
 
 <h2 align="left">🛠️ I code with</h2>
 
@@ -113,24 +113,3 @@ My goal is to build robust software systems and gain real-world engineering expe
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" height="40" alt="restful api logo" />
 
 </div>
-
-<hr>
-
-<h2 align="left">🐍 Python Frameworks</h2>
-
-<ul>
-  <li>Flask – lightweight backend APIs</li>
-  <li>FastAPI – high-performance REST APIs</li>
-  <li>Streamlit – data-driven web apps and dashboards</li>
-</ul>
-
-<hr>
-
-<h2 align="left">🐳 DevOps & Tooling</h2>
-
-<ul>
-  <li>Docker & containerization</li>
-  <li>YAML (Docker Compose, CI/CD configs)</li>
-  <li>Nginx reverse proxy & deployment</li>
-  <li>Git & GitHub workflow</li>
-</ul>
