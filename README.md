@@ -1,7 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Hi there!</h1>
 
 <p align="left">
-My name is Ernest Eh and I'm a final year Computer Science student from Malaysia 🇲🇾
+My name is Ernest Eh and I'm a final year Degree Student in Software Engineering at University of Wollongong Malaysia.
 </p>
 
 <hr>
@@ -9,9 +9,9 @@ My name is Ernest Eh and I'm a final year Computer Science student from Malaysia
 <h2 align="left">👋 Profile Summary</h2>
 
 <p align="left">
-Computer Science student passionate about backend development, system design, and building scalable applications. 
-Interested in software testing, databases, and full-stack development. 
-Always learning and improving through hands-on projects.
+👨‍💻 Software Engineering student passionate about backend development, system design, and building scalable applications. 
+🧠 Interested in software testing, databases, and full-stack development. 
+🚀 Always learning and improving through hands-on projects.
 </p>
 
 <hr>
@@ -19,7 +19,7 @@ Always learning and improving through hands-on projects.
 <h2 align="left">About Me</h2>
 
 <p align="left">
-I am a Computer Science final year student with a strong interest in backend engineering, system architecture, and scalable software development. 
+I am a Software Engineering final year student with a strong interest in backend engineering, system architecture, and scalable software development. 
 I enjoy working with databases, APIs, and full-stack applications, and I am actively learning containerization and deployment tools. 
 My goal is to build robust software systems and gain real-world engineering experience through projects and research.
 </p>
@@ -70,6 +70,7 @@ My goal is to build robust software systems and gain real-world engineering expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="40" />
+  <img width="12" />
 
   <!-- Backend & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
@@ -85,11 +86,13 @@ My goal is to build robust software systems and gain real-world engineering expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" />
+  <img width="12" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img width="12" />
 
   <!-- DevOps / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
