@@ -9,8 +9,8 @@ My name is Ernest Eh and I'm a final year Degree Student in Software Engineering
 <h2 align="left">👋 Profile Summary</h2>
 
 <p align="left">
-👨‍💻 Software Engineering student passionate about backend development, system design, and building scalable applications. 
-🧠 Interested in software testing, databases, and full-stack development. 
+👨‍💻 Software Engineering student passionate about backend development, system design, and building scalable applications. <br>
+🧠 Interested in software testing, databases, and full-stack development. <br>
 🚀 Always learning and improving through hands-on projects.
 </p>
 
@@ -57,6 +57,8 @@ My goal is to build robust software systems and gain real-world engineering expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Apps_Script.svg" height="40" alt="google apps script logo" />
+  <img width="12" />
 
   <!-- Frontend / UI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -70,6 +72,10 @@ My goal is to build robust software systems and gain real-world engineering expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET MAUI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
 
   <!-- Backend & Frameworks -->
@@ -102,6 +108,8 @@ My goal is to build robust software systems and gain real-world engineering expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" height="40" alt="restful api logo" />
 
 </div>
 
