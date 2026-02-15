@@ -46,7 +46,7 @@ My goal is to build robust software systems and gain real-world engineering expe
 <div align="left">
 
   <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
