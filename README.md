@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Hi there!</h1>
+<h1 align="left">👋 Hi there!</h1>
 
 <p align="left">
 My name is Ernest Eh and I'm a final year Degree Student in Software Engineering at University of Wollongong Malaysia.
@@ -6,7 +6,7 @@ My name is Ernest Eh and I'm a final year Degree Student in Software Engineering
 
 ###
 
-<h2 align="left">👋 Profile Summary</h2>
+<h2 align="left">Profile Summary</h2>
 
 <p align="left">
 👨‍💻 Software Engineering student passionate about backend development, system design, and building scalable applications. <br>
@@ -26,7 +26,7 @@ My goal is to build robust software systems and gain real-world engineering expe
 
 ###
 
-<h2 align="left">🚀 Tech Interests</h2>
+<h2 align="left">Tech Interests</h2>
 
 <ul>
   <li>Backend Engineering & APIs (Spring Boot, Python frameworks)</li>
@@ -41,7 +41,7 @@ My goal is to build robust software systems and gain real-world engineering expe
 
 ###
 
-<h2 align="left">🛠️ I code with</h2>
+<h2 align="left">I code with</h2>
 
 <div align="left">
 
